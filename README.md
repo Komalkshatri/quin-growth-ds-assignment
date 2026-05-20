@@ -3,6 +3,7 @@ This repo contains my submission for Quin Growth Data Science role's assessment.
 
 ## Contents
 `Quin_Assessment.ipynb` — analysis notebook containing funnel analysis, retention analysis, experiment design calculations, and predictive modelling workflow
+
 `Quin_Assignment.pdf` — written summary, thought process, analysis and business recommendations for given Tasks 1–5
 
 ## Summary of Findings
